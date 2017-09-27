@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Contador</string>
+    <string name="saludo">¡Hola!</string>
+    <string name="incrementa_en_1">Suma 1</string>
 </resources>
